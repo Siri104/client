@@ -10,7 +10,7 @@ function App() {
     <input type="text" name="moivename  " /> 
     <label>Review :</label>
     <input type="text" name="review" /> 
-    <button>Submit</button>
+    <button >Submit</button>
     </div>
     </div>
   );
