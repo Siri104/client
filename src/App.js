@@ -6,9 +6,11 @@ function App() {
     <div className="App">
     <h1>CURD application</h1>
 <div className='form'>
-  
-    <input type="text" name="moivename  " /> <br />
+   <label>Moive Name:</label>
+    <input type="text" name="moivename  " /> 
+    <label>Review :</label>
     <input type="text" name="review" /> 
+    <button>Submit</button>
     </div>
     </div>
   );
